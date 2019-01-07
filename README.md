@@ -1,5 +1,5 @@
 
-##来自 [loveshell/ngx_lua_waf](https://github.com/loveshell/ngx_lua_waf)
+##来自 [loveshell/ngx_lua_waf](https://github.com/loveshell/ngx_lua_waf) 2019.01.07 更新
 
 ##ngx_lua_waf
 
